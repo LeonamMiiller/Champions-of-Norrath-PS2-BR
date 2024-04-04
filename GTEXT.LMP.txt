@@ -138,7 +138,7 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Näo tema, você näo está morto, isso näo é a vida após a morte - é o Plano do Ar. Eu consegui trazê-lo aqui depois que a ponte no Plano do Ódio foi destruída. Eu tive pouca escolha - pois acredito que você possa ser nossa única chance de evitar a escuridäo que está por vir.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Entenda, a tradiçäo divina dita que eu... e aqueles que sirvo... näo podemos intervir diretamente neste assunto. No entanto, posso me desfazer de qualquer coisa que você veja aqui por uma oferta apropriada.<END>
+<BEGIN>Entenda, a tradiçäo divina dita que eu... e aqueles que sirvo... näo podem intervir diretamente neste assunto. No entanto, posso me desfazer de qualquer coisa que você veja aqui por uma oferta apropriada.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Volte agora para o Plano do Ódio e acabe com isso.<END>
 <BEGIN>Mais...<END>
@@ -253,7 +253,7 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Dou um passo para fora da porta, e ele começa a suar e se preocupar e a torcer as mäos e a perguntar para cada primeira, segunda e terceira pessoa que ele encontra se eles me viram, se podem me trazer de volta, e... rrrrr! Ele me deixa täo irritada às vezes!<END>
 <BEGIN>Mais...<END>
-<BEGIN>Ele simplesmente näo parece entender que eu näo sou mais uma garota. Eu cresci. Uma mulher. E eu näo preciso de algum grandalhäo desajeitado me seguindo e me arrastando de volta para o Papai. Está bem?<END>
+<BEGIN>Ele simplesmente näo parece entender que eu näo sou mais uma garota. Eu cresci. Sou uma mulher. E näo preciso de algum grandalhäo desajeitado me seguindo e me arrastando de volta para o Papai. Está bem?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Se você quiser ajudar, entäo me ajude a encontrar meus gatinhos. Eles estäo por aqui em algum lugar. Depois que eu encontrar todos eles, entäo eu vou pensar em voltar com você.<END>
 <BEGIN>Fim.<END>
@@ -274,7 +274,7 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Eu sei que o ser do mundo superior fede, mas vamos sair logo depois de encontrarmos seus irmäos e irmäs.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Aqui está minha pequena Tootle! Onde você estava, sua menina travessa!<END>
+<BEGIN>Aí está minha pequena Tootle! Onde você estava, sua menina travessa!<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mais...<END>
 <BEGIN>Você fique perto da Tenya enquanto procuramos os outros.<END>
@@ -1574,7 +1574,7 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Desta vez, bem, parece que ela vagou um pouco longe, de fato. Parece que de alguma forma ela atravessou o Campo de Lava Blackdelve e está vagando nas, uh, Cavernas dos Caídos.<END>
 <BEGIN>Mais...<END>
-<BEGIN>As Cavernas näo estäo täo longe, eu acho, ficam do outro lado do Desfiladeiro Blackfire. Alguns dos gnomos chamam o Desfiladeiro de um lugar traiçoeiro, mas näo se preocupe. O Desfiladeiro Blackfire é monitorado pela Torre de Ferro por Xorin Shadowson. Ele é um pouco imprevisível, mas näo vai incomodá-lo, apenas cuidado com os pets dele. Eles säo os que väo te despedaçar.<END>
+<BEGIN>As Cavernas näo estäo täo longe, eu acho, ficam do outro lado do Desfiladeiro Blackfire. Alguns dos gnomos chamam o Desfiladeiro de um lugar traiçoeiro, mas näo se preocupe. O Desfiladeiro Blackfire é monitorado pela Torre de Ferro por Xorin Shadowson. Ele é um pouco imprevisível, mas näo vai incomodá-lo, apenas cuidado com os pets dele. Säo eles quem väo te despedaçar.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Devolver a Filha do Nobre<END>
 <BEGIN>Encontre Tenya e a envie de volta para seu pai.<END>
@@ -1591,7 +1591,7 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Talvez seja por isso que aquele orc se sente täo em casa lá. Ele tem traficado carga pelo Poço há meses. Entregas de e para Vanarhost, se näo estou enganado. Se você ainda quer encontrá-lo, siga-o até o Poço.<END>
 <BEGIN>Mais...<END>
-<BEGIN>Você vai precisar de uma embarcaçäo resistente para fazer a jornada, porém. Tente Bingham Viggs. Se há um gnomo em Blackdelve Reach que pode construir uma embarcaçäo para sobreviver ao Poço, ele é o seu gnomo.<END>
+<BEGIN>Você vai precisar de uma embarcaçäo resistente para fazer a jornada, Tente Bingham Viggs. Se há um gnomo em Blackdelve Reach que pode construir uma embarcaçäo para sobreviver ao Poço, ele é o seu gnomo.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Obrigado novamente por toda sua ajuda. Se todos os de cima fossem täo capazes quanto você, poderíamos visitar a superfície com mais frequência.<END>
 <BEGIN>Fim.<END>
@@ -1599,8 +1599,8 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>Mas näo é culpa das pobres Mamute-Formigas. Elas säo criaturas sensíveis. Elas näo gostam de barulhos altos. Mas, claro, os anciäos disseram que construir lava riders traria ouro rolando para Blackdelve Reach, entäo näo havia discussäo! Típico! E de pouca visäo.<END>
 <BEGIN>Presumo que os lava riders sejam um problema?<END>
-<BEGIN>Parece trágico, mas tenho negócios mais urgentes em outro lugar.<END>
-<BEGIN>Oh, näo säo os cavaleiros de lava que säo o problema, é o barulho que eles fazem! As vibraçöes fizeram as Mamute-Formigas saírem de seu ninho. Quer dizer, imagine como seria se alguém colocasse uma panela na sua cabeça e ficasse batendo nela com uma colher. Näo, um martelo, de novo e de novo e de novo e de novo e... nnnnh!<END>
+<BEGIN>Trágico, mas tenho negócios urgentes em outro lugar.<END>
+<BEGIN>Oh, näo säo os lava riders que säo o problema, é o barulho que eles fazem! As vibraçöes fizeram as Mamute-Formigas saírem de seu ninho. Quer dizer, imagine como seria se alguém colocasse uma panela na sua cabeça e ficasse batendo nela com uma colher. Näo, um martelo, de novo e de novo e de novo e de novo e... nnnnh!<END>
 <BEGIN>Mais...<END>
 <BEGIN>Agora as Mamute-Formigas estäo invadindo Blackdelve Reach. Eu coloquei armadilhas, mas essas formigas säo enormes. Näo há muito o que fazer. As armadilhas parecem apenas deixá-las mais irritadas, e isso é a última coisa que precisamos.<END>
 <BEGIN>Talvez eu possa te ajudar?<END>
@@ -1810,9 +1810,9 @@ sem ódio?<END>
 <BEGIN>Para Grande Faydark<END>
 <BEGIN>Para Grande Faydark<END>
 <BEGIN>Babik Nurn!<END>
-<BEGIN>Vejo que você encontrou praticamente o melhor navegador a ser encontrado por aqui. Ele cuidará de você! Boa sorte em sua viagem.<END>
+<BEGIN>Vejo que você encontrou praticamente o melhor navegador que existe por aqui. Ele cuidará de você! Boa sorte em sua viagem.<END>
 <BEGIN>Cuidado, meus amigos. Algo maligno está em açäo lá embaixo, e se Vanarhost e seu amigo orc querem chegar lá, näo deve ser um bom lugar para se estar. Cuidem-se, e que Brell Serilis os proteja!<END>
-<BEGIN>Sim... uma pena. Você sabia, Pelys, que a vinha-de-sangue, enquanto bela, tem espinhos ao longo de seu caule que podem ferir um homem quando ele a colhe? Uma flor täo bonita... e täo traiçoeira. Talvez seja melhor que a bela Lady Sylea tenha sido detida. Temo que, à luz dos eventos recentes, sua lealdade seja... suspeita.<END>
+<BEGIN>Sim... uma pena. Você sabia, Pelys, que a vinha-de-sangue, enquanto bela, tem espinhos ao longo de sua haste que podem ferir um homem quando ele a colhe? Uma flor täo bonita... e täo traiçoeira. Talvez seja melhor que a bela Lady Sylea tenha sido detida. Temo que, à luz dos eventos recentes, sua lealdade seja... suspeita.<END>
 <BEGIN>Sylea<END>
 <BEGIN>Para o Aposento de Vanarhost<END>
 <BEGIN>Esta porta está trancada do outro lado.<END>
@@ -1828,36 +1828,36 @@ sem ódio?<END>
 <BEGIN>Babik Nurn<END>
 <BEGIN>Estamos indo na direçäo errada. Blackdelve Reach está na direçäo oposta.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Você conseguiu! Tudo bem, por favor me deixe sair!<END>
+<BEGIN>Você conseguiu! Muito bem, por favor me deixe sair!<END>
 <BEGIN>Mais...<END>
 <BEGIN>Coloque a chave na fechadura.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Uh, obrigado por checar comigo, mas sem a chave, qual é o sentido? Se você quiser ajudar, a chave está no castelo de Vanarhost. Provavelmente é o próprio Vanarhost quem está segurando.<END>
+<BEGIN>Uh, obrigado por me visitar, mas sem a chave, qual é o sentido? Se você quiser ajudar, a chave está no castelo de Vanarhost. Provavelmente é o próprio Vanarhost quem está com ela.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Me coloque em um barco, e eu te levarei aonde você quiser. Até de olhos vendados, com as mäos amarradas atrás das costas.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Eu acho que poderia ser pior. Eu poderia estar morto. Mas por algum motivo, o velho dente-de-sabre está me mantendo vivo. Acho que ele quer que eu o guie até o Poço dos Maus Presságios. Depois disso... hrrrrrk. Ele vai me esvaziar como um barril de vinho e me sugar até a última gota.<END>
-<BEGIN>Olha, vou fazer um acordo com você. Me tire daqui, e eu te levarei a qualquer lugar, aonde você quiser ir. Até o fundo do Poço! Mas o problema é que a chave näo está por aqui... você terá que ir até, uh, o castelo de Vanarhost e pegá-la.<END>
-<BEGIN>Se você fizer isso, porém, tome cuidado. Vanarhost tem essa dama vampira dele que anda pelos corredores de seu castelo, e ela é um verdadeiro trabalho. Acredite em mim, você a reconhecerá se a ver. Ela quase me faz pensar que ser um vampiro näo seria täo ruim.<END>
+<BEGIN>Acho que poderia ser pior. Eu poderia estar morto. Mas por algum motivo, o velho dente-de-sabre está me mantendo vivo. Acho que ele quer que eu o guie até o Poço do Mau Presságio. E depois disso... hrrrrrk. Ele vai me esvaziar como um barril de vinho e me sugar até a última gota.<END>
+<BEGIN>Olha, vou fazer um acordo com você. Me tire daqui, e te levarei pra qualquer lugar, pra onde quiser ir. Até o fundo do Poço! Mas o problema é que a chave näo está por aqui... você terá que ir até, uh, o castelo de Vanarhost e pegá-la.<END>
+<BEGIN>Se você fizer isso, porém, tome cuidado. Vanarhost tem essa dama vampira que anda pelos corredores de seu castelo, e ela é um verdadeiro pedaço de mal caminho. Acredite em mim, você a reconhecerá se a ver. Ela quase me faz pensar, que ser um vampiro näo seria täo ruim.<END>
 <BEGIN>Um visitante.<END>
-<BEGIN>Você sabe por que veio? É o fascínio deste lugar... o fascínio do senhor deste castelo. Todos os de nossa espécie carregam tal poder. Você sabe do que estou falando.<END>
-<BEGIN>Ah... sua frequência cardíaca está se acelerando. Posso sentir daqui. Batendo como um tambor. Uma música täo sensual, quente... faminta.<END>
-<BEGIN>É o medo que faz seu coraçäo bater tanto? Näo tenha medo. Näo somos estranhos. Você me conhecia quando era criança no colo de sua avó. Embora näo se atreva a dizer, seu coraçäo conhece minha natureza, e sua mente conhece a única palavra que sua língua näo ousa admitir.<END>
+<BEGIN>Você sabe por que veio? É o fascínio deste lugar... o fascínio do senhor deste castelo. Todos da nossa espécie carregam tal poder. Você sabe do que estou falando.<END>
+<BEGIN>Ah... sua frequência cardíaca está acelerando. Posso sentir daqui. Batendo como um tambor. Uma música täo sensual, quente... deliciosa.<END>
+<BEGIN>É o medo que faz seu coraçäo bater tanto? Näo tenha medo. Näo somos estranhos. Você me conhecia quando era apenas uma criança no colo de sua avó. Embora näo se atreva a dizer, seu coraçäo conhece minha natureza, e sua mente conhece a única palavra que sua língua näo ousa admitir.<END>
 <BEGIN>Vampiro. Bebedor de vida.<END>
 <BEGIN>Eu sou Sylea, e sei o motivo de você estar aqui. Você está atrás daquele chamado Pelys, que usa o rosto de um orc e trata até mesmo meu Senhor Vanarhost como servo.<END>
 <BEGIN>Eu te direi onde encontrar este Pelys, mas tal conhecimento tem um preço.<END>
-<BEGIN>Antes de falar, meu preço näo é sangue. Acredite no que quiser, mas näo tenho desejo de cravar minhas presas em qualquer criatura mortal como um parasita inchado. Eu desejo lutar contra esses... impulsos, para näo ceder ao que resta da Sylea que era e me tornar nada mais que uma fera.<END>
+<BEGIN>Antes de falar, meu preço näo é sangue. Acredite no que quiser, mas näo tenho desejo de cravar minhas presas em qualquer criatura mortal como um parasita gordo. Eu desejo lutar contra esses... impulsos, para que eu não entregue o que resta de mim, pra a Sylea que já fui, e me tornar nada mais que uma fera.<END>
 <BEGIN>Na beira do mar, perto da vila dos gnomos, cresce uma flor chamada vinha-de-sangue. Quando eu a como, ela... diminui meu impulso para me alimentar.<END>
 <BEGIN>Siga este corredor e você emergirá perto de onde a vinha-de-sangue cresce. Traga-a de volta para mim, e eu o conduzirei por este castelo até este Pelys que você busca... talvez.<END>
-<BEGIN>Mas você deve se apressar. Sem a vinha-de-sangue, meus impulsos se tornam cada vez mais fortes... em breve, eles devoraräo o último de minha resistência, e entäo nada poderá deter meus desejos.<END>
-<BEGIN>Você retornou, mas nenhuma vinha-de-sangue enfeita sua mäo. E quanto à nossa barganha? Minhas palavras caíram em ouvidos surdos? Entäo escute isso. Você näo encontrará aquele que busca até fazer este favor por mim. Volte com a vinha-de-sangue, e só entäo vou expor a garganta deste castelo para você.<END>
+<BEGIN>Mas você deve se apressar. Sem a vinha-de-sangue, meus impulsos se tornam cada vez mais fortes... em breve, eles devoraräo o que resta de minha resistência, e entäo nada poderá deter meus desejos.<END>
+<BEGIN>Você retornou, mas nenhuma vinha-de-sangue enfeita sua mäo. E quanto à nossa barganha? Minhas palavras caíram em ouvidos surdos? Entäo escute isso. Você näo encontrará aquele que busca até fazer este favor por mim. Volte com a vinha-de-sangue, e só entäo vou expor as entranhas deste castelo para você.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Eu te aviso. Você nunca encontrará o que busca até trazer a vinha-de-sangue para mim.<END>
 <BEGIN>Fim.<END>
 <BEGIN>A vinha-de-sangue... você a trouxe. Oro para que você nunca saiba o que é precisar de algo täo desesperadamente quanto eu preciso desta flor.<END>
 <BEGIN>Ah... nnnnh.<END>
 <BEGIN>É o suficiente. Estou em sua dívida. Se ainda deseja alimentar-se da garganta de Pelys, entäo venha comigo. Eu o levarei à fera, mas a partir daí, seu caminho é seu.<END>
-<BEGIN>Parece que Pelys se encontra com meu Senhor Vanarhost neste momento... observe, mas faça-o em silêncio, para que näo sejamos ouvidos.<END>
+<BEGIN>Parece que Pelys se encontra com meu Senhor Vanarhost neste momento... observe, mas fique em silêncio, para näo sermos ouvidos.<END>
 <BEGIN>Pegar a chave da cela<END>
 <BEGIN>Encontre o Senhor Vanarhost e liberte Babik Nurn.<END>
 <BEGIN>Pegar a chave da cela<END>
@@ -3226,7 +3226,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>+%d de dano venenoso, raio da nuvem de %d pés, duraçäo %d segundos.<END>
 <BEGIN>Esta habilidade aumenta a taxa de regeneraçäo de sua saúde.<END>
 <BEGIN>Esta habilidade aumenta a taxa de regeneraçäo de seu mana.<END>
-<BEGIN>Multifogo<END>
+<BEGIN>Multidisparo<END>
 <BEGIN>Dispara múltiplas flechas de uma vez. Ranks mais altos aumentam o número de flechas e a velocidade.<END>
 <BEGIN>%d flechas totalizando %d%% do dano atual do arco.<END>
 <BEGIN>Flecha Explosiva<END>
@@ -3424,7 +3424,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Misticismo Escurecido<END>
 <BEGIN>Sombra Habitada<END>
 <BEGIN>Skarn, o Terrível<END>
-<BEGIN>Profundidade Sombria<END>
+<BEGIN>Depressäo Sombria<END>
 <BEGIN>Haantash, a Névoa<END>
 <BEGIN>Varish, o Retornante<END>
 <BEGIN>Agachamento Perdido<END>
@@ -5469,11 +5469,11 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Oetheilas<END>
 <BEGIN>Oetheilas<END>
 <BEGIN>Você lidera, eu sigo. Ver a parte de trás da sua cabeça me conforta. Significa que você ainda tem uma.<END>
-<BEGIN>Novamente nossos caminhos se cruzam. Eu teria pensado que você seria mais sábio que isso, mas ainda assim você vem, implacável, como a batida de um tambor de guerra orc.<END>
+<BEGIN>Novamente nossos caminhos se cruzam. Pensei que você seria mais sábio, mas ainda assim você vem, implacável, como a batida de um tambor de guerra orc.<END>
 <BEGIN>Mas para onde sua coragem o levou, cäo de Leithkorias?<END>
-<BEGIN>Dizem que a picada da aranha causa uma agonia insuportável. É como se fogo fluísse por cada veia do seu corpo. E quando você pensa que näo pode mais suportar, seus músculos se contraem, suas forças cessam, e seu corpo se torna uma gaiola conforme a paralisia se instala.<END>
-<BEGIN>Uma vez que você é mordido, sugiro que feche os olhos. Ou entäo você só poderá assistir enquanto a aranha devora você.<END>
-<BEGIN>Considere isso como pagamento por tudo que você fez por Leithkorias e por esses elfos. Se näo posso ver eles empalados em lanças diante de mim, entäo me contentarei com sua morte lenta e agonizante.<END>
+<BEGIN>Dizem que a picada da aranha causa uma agonia insuportável. É como se fogo fluísse por cada veia do seu corpo. E quando você pensa que näo pode mais suportar, seus músculos se contraem, suas forças cessam, e seu corpo se torna uma jaula conforme a paralisia se instala.<END>
+<BEGIN>Uma vez que você é mordido, sugiro que feche os olhos. Ou entäo você só poderá assistir enquanto a aranha o devora.<END>
+<BEGIN>Considere isso como pagamento por tudo que você fez por Leithkorias e por esses elfos. Se näo posso ver eles empalados em lanças diante de mim, entäo me contentarei com sua lenta e agonizante morte.<END>
 <BEGIN>Oetheilas<END>
 <BEGIN>Oetheilas está morto!<END>
 <BEGIN>Você deve protegê-lo para encontrar o Submundo.<END>
