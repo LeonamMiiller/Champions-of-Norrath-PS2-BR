@@ -2492,7 +2492,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Enferrujado:<END>
 <BEGIN>Trapos:<END>
 <BEGIN>Manchado:<END>
-<BEGIN>Desgastado em Batalha:<END>
+<BEGIN>Desgastado:<END>
 <BEGIN>Bronze:<END>
 <BEGIN>Ferro Fundido:<END>
 <BEGIN>Afiado:<END>
@@ -2521,11 +2521,11 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Ira<END>
 <BEGIN>Impactante<END>
 <BEGIN>Guardiäo<END>
-<BEGIN>os Planos<END>
+<BEGIN>Planos<END>
 <BEGIN>Destruiçäo<END>
-<BEGIN>a Serpente<END>
-<BEGIN>o Escorpiäo<END>
-<BEGIN>a Adaga<END>
+<BEGIN>Serpente<END>
+<BEGIN>Escorpiäo<END>
+<BEGIN>Adaga<END>
 <BEGIN>Morte<END>
 <BEGIN>Força<END>
 <BEGIN>Touro<END>
@@ -2538,17 +2538,17 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Previsäo<END>
 <BEGIN>Pensamento Divino<END>
 <BEGIN>Agilidade<END>
-<BEGIN>o Acrobata<END>
+<BEGIN>Acrobata<END>
 <BEGIN>Destreza<END>
 <BEGIN>Habilidade<END>
-<BEGIN>o Gato<END>
-<BEGIN>o Mangusto<END>
+<BEGIN>Gato<END>
+<BEGIN>Mangusto<END>
 <BEGIN>Reflexos Divinos<END>
 <BEGIN>Resistência<END>
 <BEGIN>Fortitude<END>
 <BEGIN>Vigor<END>
 <BEGIN>Resiliência<END>
-<BEGIN>o Rinoceronte<END>
+<BEGIN>Rinoceronte<END>
 <BEGIN>Resistência Divina<END>
 <BEGIN>Runas<END>
 <BEGIN>Símbolos<END>
@@ -3121,7 +3121,7 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Uma tempestade de fogo é criada que incendeia os inimigos dentro dela. Em ranks mais altos, o dano, o raio e a duraçäo aumentam.<END>
 <BEGIN>%d-%d de dano por segundo dentro de um raio de %d pés por %d segundo.<END>
 <BEGIN>%d-%d de dano por segundo dentro de um raio de %d pés por %d segundos.<END>
-<BEGIN>Flares de Fogo<END>
+<BEGIN>Chamas de Fogo<END>
 <BEGIN>Cria chamas que orbitam o conjurador. Ranks mais altos fornecem mais chamas, dano de impacto e dano de área de efeito.<END>
 <BEGIN>%d-%d de dano no impacto, %d chama que dura %d segundos.<END>
 <BEGIN>%d-%d de dano no impacto, %d chamas que duram %d segundos.<END>
