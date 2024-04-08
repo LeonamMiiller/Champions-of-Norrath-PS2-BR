@@ -1846,7 +1846,7 @@ sem ódio?<END>
 <BEGIN>Vampiro. Bebedor de vida.<END>
 <BEGIN>Eu sou Sylea, e sei o motivo de você estar aqui. Você está atrás daquele chamado Pelys, que usa o rosto de um orc e trata até mesmo meu Senhor Vanarhost como servo.<END>
 <BEGIN>Eu te direi onde encontrar este Pelys, mas tal conhecimento tem um preço.<END>
-<BEGIN>Antes de falar, meu preço näo é sangue. Acredite no que quiser, mas näo tenho desejo de cravar minhas presas em qualquer criatura mortal como um parasita gordo. Eu desejo lutar contra esses... impulsos, para que eu não entregue o que resta de mim, pra a Sylea que já fui, e me tornar nada mais que uma fera.<END>
+<BEGIN>Antes de falar, meu preço näo é sangue. Acredite no que quiser, mas näo tenho desejo de cravar minhas presas em qualquer criatura mortal como um parasita gordo. Eu desejo lutar contra esses... impulsos, para que eu näo entregue o que resta de mim, pra a Sylea que já fui, e me tornar nada mais que uma fera.<END>
 <BEGIN>Na beira do mar, perto da vila dos gnomos, cresce uma flor chamada vinha-de-sangue. Quando eu a como, ela... diminui meu impulso para me alimentar.<END>
 <BEGIN>Siga este corredor e você emergirá perto de onde a vinha-de-sangue cresce. Traga-a de volta para mim, e eu o conduzirei por este castelo até este Pelys que você busca... talvez.<END>
 <BEGIN>Mas você deve se apressar. Sem a vinha-de-sangue, meus impulsos se tornam cada vez mais fortes... em breve, eles devoraräo o que resta de minha resistência, e entäo nada poderá deter meus desejos.<END>
