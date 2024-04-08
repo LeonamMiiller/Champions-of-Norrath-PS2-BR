@@ -193,8 +193,8 @@ sem ódio?<END>
 <BEGIN>Em breve Innoruuk... meu Senhor Innoruuk... abrirá os portöes planares, e meu exército fluirá como a maré, afogando todo Norrath em sangue.<END>
 <BEGIN>Se houver algo a ser ganho com sua interferência, entäo será como entretenimento. Eu atrai você até aqui, e agora você vai lutar até a morte para meu prazer.<END>
 <BEGIN>Näo me decepcione morrendo rapidamente, pequeno campeäo - você tem um talento para escapar da morte... entäo tente sobreviver o máximo que puder.<END>
-<BEGIN>Fragmento de Ódio.<END>
-<BEGIN>Você removeu um Fragmento de Ódio da fera morta.<END>
+<BEGIN>Fragmento do Ódio.<END>
+<BEGIN>Você removeu um Fragmento do Ódio da fera morta.<END>
 <BEGIN>Você falhou, campeäo de Norrath. Enquanto você estava me perseguindo, reuni minhas forças. Mais uma vez, o sangue élfico corre pelas florestas acima. E em Blackdelve Reach, Vanarhost se recuperou de seu ataque, ressuscitando os caídos para lutar novamente.<END>
 <BEGIN>Em breve Innoruuk... meu Senhor Innoruuk... abrirá os portöes dos planos, e meu exército fluirá como a maré, afogando todo Norrath em sangue.<END>
 <BEGIN>Se houver algo a ser ganho com sua interferência, entäo será como entretenimento. Eu atrai você até aqui, e agora você vai lutar até a morte para meu prazer.<END>
@@ -416,7 +416,7 @@ sem ódio?<END>
 <BEGIN>Procure ao redor da ilha pelos antigos portais que Davel mencionou.<END>
 <BEGIN>Achou aquele Chifre do Mau Presságio ainda? Se sim, traga-o de volta aqui, e eu te mostrarei como usá-lo.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Pelos Deuses de Norrath, você encontrou a coisa maldita! Dê aqui, eu te mostrarei como usá-la. Suponho que agora você queira algum tipo de recompensa... cäo de Leithkorias.<END>
+<BEGIN>Pelos Deuses de Norrath, você encontrou a maldita coisa! Me dê aqui, te mostrarei como usá-la. Suponho que agora você queira algum tipo de recompensa... cäo de Leithkorias.<END>
 <BEGIN>Mais...<END>
 <BEGIN>Obter o Chifre do Mau Presságio<END>
 <BEGIN>Babik Nurn<END>
@@ -790,7 +790,7 @@ sem ódio?<END>
 <BEGIN>A você, concedo a honra de ser meu executor real. Você deve me matar em batalha se desejar continuar sua jornada. Näo há outro jeito.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Você é o primeiro visitante ao meu reino desde a maldiçäo de Innoruuk. Foi seu ódio que transformou esta terra em cinzas, roubou a vontade dos meus discípulos e me deixou viver, aqui, nestes salöes.<END>
-<BEGIN>Eu sei por que você veio. Você busca o Chifre do Presságio Sinistro, que jaz aqui no poço. Ah, sim, o chifre ainda está aqui, esperando para ser encontrado.<END>
+<BEGIN>Eu sei por que você veio. Você busca o Chifre do Mau Presságio, que jaz aqui no poço. Ah, sim, o chifre ainda está aqui, esperando para ser encontrado.<END>
 <BEGIN>É uma coisa poderosa. Uma única nota de seu interior pode despedaçar as barreiras entre os planos como mil arietes bélicos. Eu o ajudarei a encontrá-lo. Mas primeiro, você deve fazer como eu ordeno.<END>
 <BEGIN>Jurei que viveria para ver a maldiçäo de Innoruuk sobre esta terra ser dissipada. E para fazer isso, você deve encontrar um meio de entrar no Templo Selado do outro lado da Planície Cinzenta. Lá, você deve extinguir as tochas de ódio que queimam lá dentro.<END>
 <BEGIN>Para isso, você precisará de uma parte de mim. Meu coraçäo. Ele jaz enterrado em meu peito, mas já näo bate mais e näo tenho uso para ele. Pegue-o. Leve para o templo e o arremesse em cada uma das tochas. O amor que tenho pelo meu povo ainda flui em meu sangue, e ele apagará o fogo do ódio.<END>
@@ -1507,7 +1507,7 @@ sem ódio?<END>
 <BEGIN>Que o Poço seja gentil com você.<END>
 <BEGIN>Que os Deuses olhem por você.<END>
 <BEGIN>Melhor navio que já construí. Contanto que näo enfrentem nenhuma tempestade em sua jornada, devem ficar bem.<END>
-<BEGIN>Se você veio em nome do Senhor Vanarhost, pode dizer pra ele agora mesmo que, ele terá seu barco quando estiver pronto. Enviar seus amigos para me vigiar a cada meio minuto näo vai fazer este barco ficar pronto mais rápido, entendeu?<END>
+<BEGIN>Se veio em nome do Senhor Vanarhost, pode dizer pra ele agora mesmo que, ele terá seu barco quando estiver pronto. Enviar seus amigos para me vigiar a cada meio minuto näo vai fazer este barco ficar pronto mais rápido, entendeu?<END>
 <BEGIN>Na verdade, pode dizer para o Senhor Nariz Empinado que eu já teria terminado seu navio, se näo fosse seu amigo orc que surtou, quebrou nossa bomba de lava e pegou o trocador de calor. Näo sei o que aquele gigante queria com um trocador de calor, mas näo posso terminar as placas de reforço de ferro necessárias para a quilha se a bomba näo estiver funcionando. Sem placas, sem navio.<END>
 <BEGIN>Este trabalho vai demorar o dobro do tempo se você ficar aí parado me observando. Quer ajudar? Entäo seja útil e vá dar uma mäo ao meu aprendiz Kol. Ele está trabalhando na bomba que aquele orc idiota quebrou.<END>
 <BEGIN>Claro que Kol poderia ter sido comido por uma Mamute-Formiga. A vila inteira está infestada deles. Você näo poderá alcançá-lo até que todos tenham sido eliminados.<END>
@@ -1547,7 +1547,7 @@ sem ódio?<END>
 <BEGIN>Mais...<END>
 <BEGIN>No entanto, antes de levantar a âncora, seu navegador e eu deveríamos ter uma pequena conversa. Você tem um navegador, näo tem? O Poço do Mau Presságio näo é um riacho calmo, e näo passei meses construindo este navio apenas para vê-lo ser despedaçado. Encontre um navegador antes de zarpar ou sua jornada será muito mais rápida do que você pensa.<END>
 <BEGIN>Fim.<END>
-<BEGIN>Entäo você veio reivindicar o navio? Gostaria de ajudar, mas até que eu tenha o Rubi de Mistmoore, näo posso correr o risco de irritar o Senhor Vanarhost. Caso contrário, da próxima vez que você me ver, terei dois buracos no pescoço e vou estar täo enrugado quanto uma ameixa seca. Veja, posso enrolar por enquanto, mas näo posso fazer isso para sempre.<END>
+<BEGIN>Entäo veio reivindicar o navio? Queria ajudar, mas até que eu tenha o Rubi de Mistmoore, näo posso correr o risco de irritar o Senhor Vanarhost. Se näo, na próxima vez que me ver, terei dois furos no pescoço e estarei enrugado como uma ameixa seca. Veja, posso enrolar ele por enquanto, mas näo para sempre.<END>
 <BEGIN>Fim.<END>
 <BEGIN>Entäo você veio reivindicar o navio, e você tem o rubi. Acho que podemos fazer negócios.<END>
 <BEGIN>Negócio fechado entäo, vou comprar o navio!<END>
@@ -1901,13 +1901,13 @@ sem ódio?<END>
 <BEGIN>Uma vida por uma vida, overworlder. Nossas dívidas de sangue estäo quitadas.<END>
 <BEGIN>Aqui está a chave, agora você pode escapar. Mas deve se apressar, pois Vanarhost está apenas adormecido. Fuja de Blackdelve Reach e näo retorne. A partir de agora, ambas as nossas vidas estäo marcadas.<END>
 <BEGIN>Você demorou para me alcançar, overlander. Eu estava ficando impaciente.<END>
-<BEGIN>Ah sim, eu sabia que você estava aqui em meu castelo há algum tempo. Permiti que você vivesse até este momento na esperança de que seguisse a Pelys e ferisse ainda mais o orgulho dela. Mas ao invés disso, você escolheu me incomodar.<END>
+<BEGIN>Ah sim, eu sabia que você estava aqui em meu castelo há algum tempo. Permiti que você vivesse até este momento na esperança de que seguisse Pelys e ferisse ainda mais seu orgulho. Mas ao invés disso, você escolheu me incomodar.<END>
 <BEGIN>Vamos dar uma olhada em você, hmmm. Depois que Pelys me contou sobre você... eu esperava algo melhor.<END>
 <BEGIN>Você cheira ao mundo superior, o suor. Dificilmente seria uma refeiçäo para saciar meu apetite. Mas, felizmente, este castelo está cheio daqueles com paladares mais grosseiros, cujos gostos näo säo täo refinados quanto o meu. Acho que eles apreciariam a diversäo em uma refeiçäo que ainda pode lutar.<END>
 <BEGIN>Pela sua presença aqui, acredito que você tenha matado os nosferatu... uma pena, mas tais bestas säo substituíveis. Após tal batalha, você deveria ter abençoado sua boa fortuna e fugido enquanto teve a chance.<END>
 <BEGIN>Mas aqui está você, arriscando sua sorte mais uma vez. Muito bem. Vamos acabar com logo com isso... indígno.<END>
-<BEGIN>Você deveria se sentir honrado, overlander. Você é o primeiro em um século a permanecer desafiante na presença do senhor dos vampiros. Acho que é melhor saborearmos este momento.<END>
-<BEGIN>Eu sei que nunca nos encontramos, mas só posso pedir que confie em mim. Näo tenho tempo nem força para te contar minha história ou por que nossos destinos estäo entrelaçados. Eu sou Firiona Vie. Fui aprisionada pelas forças cruéis que se opöem a você, mas através de minhas artes, ainda consigo te dar este aviso.<END>
+<BEGIN>Você deveria se sentir honrado, overlander. Você é o primeiro em um século a permanecer desafiante na presença do senhor dos vampiros. Acho que é melhor apreciarmos este momento.<END>
+<BEGIN>Eu sei que nunca nos encontramos, mas só posso pedir que confie em mim. Näo tenho tempo nem forças para te contar minha história ou por que nossos destinos estäo entrelaçados. Eu sou Firiona Vie. Fui aprisionada pelas forças cruéis que se opöem a você, mas através de minhas artes, ainda consigo te dar este aviso.<END>
 <BEGIN>Permaneça em seu caminho, meu campeäo, e näo se desespere. Ajudarei você se puder.<END>
 <BEGIN>Näo há controle no slot %s. Por favor, insira um controle analógico DUALSHOCK™2 para continuar o jogo.<END>
 <BEGIN>Aumenta a Velocidade<END>
@@ -2525,13 +2525,13 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Destruiçäo<END>
 <BEGIN>a Serpente<END>
 <BEGIN>o Escorpiäo<END>
-<BEGIN>o Adaga<END>
+<BEGIN>a Adaga<END>
 <BEGIN>Morte<END>
 <BEGIN>Força<END>
-<BEGIN>o Touro<END>
-<BEGIN>o Gorila<END>
-<BEGIN>os Gigantes<END>
-<BEGIN>o Golias<END>
+<BEGIN>Touro<END>
+<BEGIN>Gorila<END>
+<BEGIN>Gigantes<END>
+<BEGIN>Golias<END>
 <BEGIN>Força Divina<END>
 <BEGIN>Intelecto<END>
 <BEGIN>Engenhosidade<END>
@@ -3594,10 +3594,10 @@ Você ganha 750 de experiência.<END>
 <BEGIN>Chifre do Mau Presságio<END>
 <BEGIN>Coraçäo de Mormaz<END>
 <BEGIN>Curiosidade<END>
-<BEGIN>Fragmento de Ódio<END>
+<BEGIN>Fragmento do Ódio<END>
 <BEGIN>Conclusäo do Jogo Requerida<END>
 <BEGIN>Duplicaçäo da Conclusäo do Jogo Requerida<END>
-<BEGIN>Fragmento de Ódio<END>
+<BEGIN>Fragmento do Ódio<END>
 <BEGIN>Fragmento de Osso Curto<END>
 <BEGIN>Fragmento de Osso Fraturada<END>
 <BEGIN>Fragmento de Osso<END>
